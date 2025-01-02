@@ -37,5 +37,3 @@ Outro ponto importante é que a Leonardo IA tem uma certa quantidade de imagens 
 
 ## 💭 Reflexão (Opcional)
 Carrego comigo a necessidade de falar sobre os animais, seus direitos e necessidades sempre que eu tiver a oportunidade, assim, ainda que eu seja uma pessoa técnica, com conhecimento racional das áreas TI, entendi que criar um e-book também era uma boa oportunidade para falar sobre os animais, inclusive, vou compartilhar este e-book com pessoas que eu conheço e que vão gostar de ler sobre o assunto, ou seja, agradeço imensamente a oportunidade de usar ferramentas que eu não saberia utilizar se não fosse este curso para realizar um desejo que eu sempre tive, que é falar com as crianças sobre os animais, pois, entendo que se conscientizarmos as crianças, estas nunca vão esquecer e serão seres humanos melhores.
-
-
