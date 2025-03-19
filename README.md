@@ -1,8 +1,6 @@
 # desafio-e-book
 Desafio criação de e-book
 
-Desafio crialçai de e-book ;)
-
 ## 📒 Descrição
 Criação de e-book para o publico infantil, a fim de conscientizar a respeito das necessidades dos animais.
 
